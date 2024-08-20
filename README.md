@@ -38,7 +38,8 @@
 -> All the projects have there features and working explained in there readme.md file. </br>
 <details>
   <summary>More...</summary>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush2442&show_icons=true&theme=radical)
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush2442&show_icons=true&theme=radical)" />
+  
 </details>
  
 ####

@@ -37,8 +37,6 @@
 -> All the projects metioned are build from ground up. </br>
 -> All the projects have there features and working explained in there readme.md file. </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush2442)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ayush2442&show_icons=true&count_private=true&theme=radical" />
@@ -74,7 +72,4 @@
 ## Connect
 ####
 
-<a href="https://www.linkedin.com/in/ayushpandey2442/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://x.com/AyushPandey_01" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://github.com/ayush2442" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://www.instagram.com/ayushpandey2442/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ayush2442)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayushpandey2442/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayushpandey2442/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AyushPandey_01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](bhrm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](Ayush_2442)  

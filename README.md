@@ -29,11 +29,13 @@
 
 <br><br>   
 
-I am a Full-Stack Developer, currently in 3rd year of Computer Science Engineering with Specialization in DevOps. </br>
-Here, I upload all my Project files (you can check them out). </br>
-I primarly work with C++ and JAVA for the developement. </br>
-All the projects metioned are build from ground up. </br>
-All the projects have there features and working explained in there readme.md file. </br>
+## About
+
+-> I am a Full-Stack Developer, currently in 3rd year of Computer Science Engineering with Specialization in DevOps. </br>
+-> Here, I upload all my Project files (you can check them out). </br>
+-> I primarly work with C++ and JAVA for the developement. </br>
+-> All the projects metioned are build from ground up. </br>
+-> All the projects have there features and working explained in there readme.md file. </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush2442&show_icons=true&theme=radical)
  

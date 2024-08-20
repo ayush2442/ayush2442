@@ -36,10 +36,10 @@
 -> I primarly work with C++ and JAVA for the developement. </br>
 -> All the projects metioned are build from ground up. </br>
 -> All the projects have there features and working explained in there readme.md file. </br>
+
 <details>
   <summary>More...</summary>
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush2442&show_icons=true&theme=radical)" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush2442&show_icons=true&count_private=true&theme=dark" />
 </details>
  
 ####

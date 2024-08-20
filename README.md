@@ -29,11 +29,11 @@
 
 <br><br>   
 
-I am a Full-Stack Developer, currently in 3rd year of Computer Science Engineering with Specialization in DevOps.
-Here, I upload all my Project files (you can check them out).
-I primarly work with C++ and JAVA for the developement.
-All the projects metioned are build from ground up.
-All the projects have there features and working explained in there readme.md file. 
+I am a Full-Stack Developer, currently in 3rd year of Computer Science Engineering with Specialization in DevOps. </br>
+Here, I upload all my Project files (you can check them out). </br>
+I primarly work with C++ and JAVA for the developement. </br>
+All the projects metioned are build from ground up. </br>
+All the projects have there features and working explained in there readme.md file. </br>
  
 <!--
 **ayush2442/ayush2442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

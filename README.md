@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ayush Pandey
 
-**`Bachelors in Computer Science Engineering with Spez in DevOps (3rd Year) `**
+**`Bachelors in Computer Science Engineering with Spez in DevOps `**
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="1000" alt="animated hello">
 

@@ -31,9 +31,9 @@
 
 ## About
 
--> I am a Full-Stack Developer, currently in 3rd year of Computer Science Engineering with Specialization in DevOps. </br>
+-> I am a Full-Stack Developer, currently in final year of Computer Science Engineering with Specialization in DevOps. </br>
 -> Here, I upload all my Project files (you can check them out). </br>
--> I primarly work with C++ and JAVA for the developement. </br>
+-> I primarly work with C++ and JAVA along with SpringBoot and all the DevOps tools for the developement. </br>
 -> All the projects metioned are build from ground up. </br>
 -> All the projects have there features and working explained in there readme.md file. </br>
 
